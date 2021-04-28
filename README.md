@@ -6,4 +6,4 @@ The Application will move the knight around the chessboard. The board represente
 
 The program shows the possiple knight moves, The Heurstic exception it allows to move the knight to that sequare twice, in order to let the knight move to another sequare after the Heurstic move and maximize the knight moves chances
 
-when the knight started it moves, the program shows how many times the knight moves and shows every sequare how many times the knight moved to it.
+when the knight started it moves, the program shows how many times the knight moved and shows every sequare how many times the knight moved to it.
